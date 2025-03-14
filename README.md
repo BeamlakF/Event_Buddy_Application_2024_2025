@@ -1,4 +1,4 @@
-# Event_Buddy_Application_2024_2025
+# Event_Buddy_Application_2025
 
 | Group members  |     ID        |
 |----------------|---------------|
