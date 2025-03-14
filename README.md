@@ -8,7 +8,7 @@
 | Naol Feyissa   | UGR/5409/15   |
 | Thitna Damtew  | UGR/1387/15   |
 
-# My Project Name
+#  Project Name
 Event Buddy Application
 
 ## Features  
